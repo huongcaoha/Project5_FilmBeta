@@ -1,0 +1,22 @@
+/* @media (max-width: 1024px) {
+  .content {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+    height: auto;
+  }
+  .screen {
+    display: none;
+    margin-right: 10%;
+    width: 100%;
+
+    background-color: pink;
+  }
+}
+
+@media (max-width: 768px) {
+  .guide-chair {
+  }
+} */
